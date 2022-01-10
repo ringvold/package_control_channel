@@ -694,6 +694,17 @@
 			]
 		},
 		{
+			"name": "elm-format",
+			"details": "https://github.com/ringvold/sublime-elm-format",
+			"labels": ["elm", "formatting"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Eloquent Snippets",
 			"details": "https://github.com/m2quared/Sublime-Eloquent-Snippets",
 			"labels": ["snippets", "laravel", "eloquent"],
